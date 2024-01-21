@@ -17,8 +17,6 @@ pip install pandas matplotlib yfinance mplfinance
 
 Проект має один основний клас - StockAnalyzer. Цей клас призначений для завантаження та аналізу даних акцій, а також для відображення свічкових графіків.
 
-python
-Copy code
 from stock_analyzer import StockAnalyzer
 
 # Введіть символ акцій для аналізу
